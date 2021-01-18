@@ -1,0 +1,32 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "icon2" : {
+                "iconCode": "58730",
+                "fontFamily":"MaterialIcons"
+            },
+            "texto": "Alertas"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "icon2" : {
+                "iconCode": "58716",
+                "fontFamily":"MaterialIcons"
+            },
+            "texto": "Avatars"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "icon2" : {
+                "iconCode": "59232",
+                "fontFamily":"MaterialIcons"
+            },
+            "texto": "Cards - Tarjetas"
+        }
+    ]
+}
